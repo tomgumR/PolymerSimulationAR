@@ -4,6 +4,11 @@ An augmented reality Unity project for interactive polymer simulation and real-t
 
 This project was developed as part of the Summer Research Internship Program 2024 at IIT Gandhinagar. It presents a polymer simulation directly in augmented reality, where the polymer can be viewed and interacted with in 3D space rather than only through a conventional 2D screen. The project models a short polymer chain using a ball-and-spring representation, enables touch-based manipulation of the structure in AR, calculates bonded interaction energies in real time as the polymer is deformed, and reflects those changes in a real-time 3D graph projected beside the polymer. By placing both the molecular model and its live energy visualization into the user’s physical space, the system makes interaction more intuitive and spatially meaningful, thereby contributing to more effective educational and research tools in molecular dynamics.
 
+## Demo Video
+
+[Watch the demo video](./demoVid.MOV)
+
+
 ## Overview
 
 The project focuses on visualizing polymer behavior in a more intuitive way than traditional 2D molecular tools. A polymer chain is represented using:
